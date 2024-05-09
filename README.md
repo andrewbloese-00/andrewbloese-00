@@ -1,13 +1,43 @@
+
 # Hi, my name is [Andrew](https://andrewbloese-me.web.app) 👋
 Software Developer based in Arizona – certified for [Full Stack Engineering](https://www.codecademy.com/profiles/AndrewBloese/certificates/ffd0f42cce1a44e9a0108b365047a0a6) and [Computer Science](https://www.codecademy.com/profiles/AndrewBloese/certificates/05009c20e9174378acd37e6c2d0fbfc4) while pursuing a Bachelor's Degree in Computer Science from Arizona State University. 
 
 When I am not building software, I like to play games (Minecraft is not just a phase), mess around with my 3D printer and listen to music (👀 peep my [spotify](https://open.spotify.com/user/blazethedrummer?si=db18ffd7429b4519)). 
+
+## Connect
+I am always open to collaboration and invite anyone who would like to work together to reach out via: 
+- ✉️ Email - [dev@andrewbloese.me](mailto:dev@andrewbloese.me).
+- 📥 Instagram [@a.blaze1218](https://www.instagram.com/a.blaze1218/)
+- 🌐 My Website [Contact Form](https://andrewbloese-me.web.app)
 
 
 ## Currently...
 -  I'm building a personal tracker CLI application (see [lifecli](https://github.com/andrewbloese-00/life-cli)) to help keep myself on top of good habits and my budget
 -  Finishing up the deployment of my portfolio website (waiting for DNS propogation with squarespace domains is painful 💀)
 -  Learning Data Science for NLP via Codecademy
+
+
+## Audio Visualizers 
+Some of my favorite projects have been creating audio visualizations. The Web Audio API provides straightforward ways to analyze audio data from files or streams. When used with ThreeJS it is possible to create dynamic scenes that react to music! 
+
+- ⚠️ **NOTE**: The following visualizers may trigger those with photosentitive epilepsy, visit with caution 🧐
+
+
+### Audio Terrain
+<img src="https://github.com/andrewbloese-00/andrewbloese-00/blob/main/audioterrain.gif" alt="Audio Terrain Visualizer" style="margin: auto"/>
+
+- not deployed yet
+- file or microphone analysis
+
+### [Orb Audio](https://prismicaudio.web.app)
+- Hosted with firebase
+- First try using Lighting in ThreeJS, where the lights correspond to the 5 loudest frequencies at the current moment in the audio.
+- Microphone analysis only
+
+### [Quasar Audio](https://quasar-audio.web.app)/[Beat Valley Visualizer](https://beat-valley-visualizer.web.app)
+- "Beat Valley" was originally created with a customizable color pallete, featuring 3 different perspectives to watch the rings shift and scale to the audio. 
+- "Quasar Audio" removed the color pallete functionality and instead introduced excessive hue-rotation on the rings and background. I wanted a more "intense" feeling to the visualizer which the hue rotation definately achieved. 
+
 
 
 ## Languages and Tools
@@ -25,11 +55,9 @@ When I am not building software, I like to play games (Minecraft is not just a p
   <img style="height: 50px" src="https://supabase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-preview.50e72501.jpg&w=3840&q=75" alt="Supabase">
 </div>
 
-## Connect
-I am always open to collaboration and invite anyone who would like to work together to reach out via: 
-- ✉️ Email - [dev@andrewbloese.me](mailto:dev@andrewbloese.me).
-- 📥 Instagram [@a.blaze1218](https://www.instagram.com/a.blaze1218/)
-- 🌐 My Website [Contact Form](https://andrewbloese-me.web.app)
+
+
+
 
 
 
