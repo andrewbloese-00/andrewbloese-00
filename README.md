@@ -5,7 +5,7 @@ When I am not building software, I like to play games (Minecraft is not just a p
 
 
 ## Currently...
--  I'm building a personal tracker CLI application (see [lifecli](https://github.com/andrewbloese-00/lifecli)) to help keep myself on top of good habits and my budget
+-  I'm building a personal tracker CLI application (see [lifecli](https://github.com/andrewbloese-00/life-cli)) to help keep myself on top of good habits and my budget
 -  Finishing up the deployment of my portfolio website (waiting for DNS propogation with squarespace domains is painful 💀)
 -  Learning Data Science for NLP via Codecademy
 
