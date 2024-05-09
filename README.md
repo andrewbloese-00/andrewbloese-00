@@ -1,6 +1,15 @@
 # Hi, my name is [Andrew](https://andrewbloese-me.web.app) 👋
 Software Developer based in Arizona – certified for [Full Stack Engineering](https://www.codecademy.com/profiles/AndrewBloese/certificates/ffd0f42cce1a44e9a0108b365047a0a6) and [Computer Science](https://www.codecademy.com/profiles/AndrewBloese/certificates/05009c20e9174378acd37e6c2d0fbfc4) while pursuing a Bachelor's Degree in Computer Science from Arizona State University. 
 
+When I am not building software, I like to play games (Minecraft is not just a phase), mess around with my 3D printer and listen to music (👀 peep my [spotify](https://open.spotify.com/user/blazethedrummer?si=db18ffd7429b4519)). 
+
+
+## Currently...
+-  I'm building a personal tracker CLI application (see [lifecli](https://github.com/andrewbloese-00/lifecli)) to help keep myself on top of good habits and my budget
+-  Finishing up the deployment of my portfolio website (waiting for DNS propogation with squarespace domains is painful 💀)
+-  Learning Data Science for NLP via Codecademy
+
+
 ## Languages and Tools
 <div style="display:flex; flex-wrap: wrap; box-sizing: border-box; align-items: center; gap: 20px">
   <img style="width: 50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433" alt="Javascript">
