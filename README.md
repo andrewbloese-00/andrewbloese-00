@@ -12,7 +12,8 @@ I am always open to collaboration and invite anyone who would like to work toget
 
 
 ## Currently...
--  I'm building a personal tracker CLI application (see [lifecli](https://github.com/andrewbloese-00/life-cli)) to help keep myself on top of good habits and my budget
+-  Building a Star Wars inspired minecraft mod.
+-  Building an iOS metronome app supporting solo and group metronomes. 
 -  Learning Data Science for NLP via Codecademy
 
 
