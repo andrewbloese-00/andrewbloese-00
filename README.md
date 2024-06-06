@@ -12,9 +12,7 @@ I am always open to collaboration and invite anyone who would like to work toget
 
 
 ## Currently...
--  Building a Star Wars inspired minecraft mod.
--  Building an iOS metronome app supporting solo and group metronomes. 
--  Learning Data Science for NLP via Codecademy
+- Buiding a third person adventure game with Godot. 
 
 
 ## Audio Visualizers 
