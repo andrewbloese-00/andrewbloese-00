@@ -9,11 +9,6 @@ I am always open to collaboration and invite anyone who would like to work toget
 - 📥 Instagram [@a.blaze1218](https://www.instagram.com/a.blaze1218/)
 - 🌐 My Website [Contact Form](https://andrewbloese.me)
 
-
-## Currently...
-- Buiding a third person adventure game with Godot. 
-
-
 ## Audio Visualizers 
 Some of my favorite projects have been creating audio visualizations. The Web Audio API provides straightforward ways to analyze audio data from files or streams. When used with ThreeJS it is possible to create dynamic scenes that react to music! 
 The visualizers perform best on Google Chrome, there is some bugginess in safari when attempting to use the microphone analyser while playing music on the same device. Chrome does not have this issue :)
