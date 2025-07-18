@@ -4,7 +4,6 @@ Software Developer based in Arizona – certified for [Full Stack Engineering](
 When I am not building software, I like to play games, mess around with my 3D printer and listen to music (👀 peep my [spotify](https://open.spotify.com/user/blazethedrummer?si=db18ffd7429b4519)). 
 
 ## Connect
-I am always open to collaboration and invite anyone who would like to work together to reach out via: 
 - ✉️ Email - [dev@andrewbloese.me](mailto:dev@andrewbloese.me).
 - 📥 Instagram [@a.blaze1218](https://www.instagram.com/a.blaze1218/)
 - 🌐 My Website [Contact Form](https://andrewbloese.me)
@@ -14,6 +13,20 @@ Some of my favorite projects have been creating audio visualizations. The Web Au
 The visualizers perform best on Google Chrome, there is some bugginess in safari when attempting to use the microphone analyser while playing music on the same device. Chrome does not have this issue :)
 
 - ⚠️ **NOTE**: The following visualizers may trigger those with photosentitive epilepsy, visit with caution 🧐
+
+### In Development (Rings Visualizer)
+- splits frequency buffer into some number of rings each being a lineloop and corresponding to some frequency range.
+  - lowest frequency at outermost ring.     
+- utilizes `ShaderMaterial` and passes the frequency data buffer as uniforms to each ring allowing the GPU to do the repositioning of vertices
+- applies coloration based on the volume at a given point using a fragment shader
+- bloom and hue rotation based on the overall average volume.
+- camera on a fixed path unless paused (using `space` key)
+- while camera paused allows for free movement using orbit controls. 
+<img 
+    src="https://firebasestorage.googleapis.com/v0/b/storeshit.appspot.com/o/viz%2Frings.gif?alt=media&token=1b71040d-7a13-4cca-8682-1b367a48a283" 
+    alt="Rings Visualizer"
+    style="width: 50vw;"
+/>
 
 
 ### Hallucinaudio
@@ -72,12 +85,6 @@ Splits the frequency data buffer into a given number of "lines", and stores the 
 Uses similar approach to the lines visualizer however generates scaled cubes to appear more like voxel terrain. 
 - Settings for how "glowy" the scene is
   
-
-
-### [Orb Audio](https://prismicaudio.web.app)
-- Hosted with firebase
-- First try using Lighting in ThreeJS, where the lights correspond to the 5 loudest frequencies at the current moment in the audio.
-- Microphone analysis only
 
 ### [Quasar Audio](https://quasar-audio.web.app)/[Beat Valley Visualizer](https://beat-valley-visualizer.web.app)
 - "Beat Valley" was originally created with a customizable color pallete, featuring 3 different perspectives to watch the rings shift and scale to the audio. 
