@@ -29,7 +29,7 @@ The visualizers perform best on Google Chrome, there is some bugginess in safari
 />
 
 
-### Hallucinaudio
+### [Hallucinaudio](https://hallucinaudio.web.app/)
 - Hosted with firebase. 
 - Initially built as a way to combine all of my previous visualizers into one place.
 - First attempt at using multiple different scenes in the same project. 
