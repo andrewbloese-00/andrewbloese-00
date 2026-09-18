@@ -8,4 +8,4 @@ Software Developer based in Arizona – certified for [Full Stack Engineering](
 - 📥 Instagram [@a.blaze1218](https://www.instagram.com/a.blaze1218/)
 
 
-[Resume](https://drive.google.com/file/d/1wO64n5XRkuoXUupAVKYnPyVJKECAsYmu/view?usp=drivesdk)
+[Resume](https://drive.google.com/file/d/1ogG-fDmdFlaGWYEziZ92kpYNWmjgjdTm/view?usp=drivesdk)
