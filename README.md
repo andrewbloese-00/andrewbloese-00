@@ -6,5 +6,5 @@ When I am not building software, I like to play games, mess around with my 3D pr
 ## Connect
 - ✉️ Email - [dev@andrewbloese.me](mailto:dev@andrewbloese.me).
 - 📥 Instagram [@a.blaze1218](https://www.instagram.com/a.blaze1218/)
-- 🌐 My Website [Contact Form](https://andrewbloese.me)
 
+## [Resume](https://drive.google.com/file/d/1lA9DLAlHGUqd2ofq_lLwtgn-7jkdLYAN/view?usp=drivesdk)
